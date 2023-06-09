@@ -132,7 +132,7 @@ const Sidebar = ({
               <FlexBetween color={theme.palette.secondary.main}>
                 <Box display="flex" alignItems="center" gap="0.1rem">
                   <Typography variant="h4" fontWeight="bold">
-                    ECOMVISION
+                    STACKCOMMANDO
                   </Typography>
                 </Box>
                 {!isNonMobile && (
